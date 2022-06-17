@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="2022-JUN-17">
+      <change afterPath="$PROJECT_DIR$/.idea/fictional-adventure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/Modulo6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Exercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/AreaCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/AreaCircTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/PrimeiroTrauma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ProdutoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ValorVsReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/ConjuntoComportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/BreakRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/ContinueRotulado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioDiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/SwitchComBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/SwitchSemBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/WhileDeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/WhileIndeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoStringNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/DesafioCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/DesafioConversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Import.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Inferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/NotacaoPonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Temperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TipoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TipoStringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Aritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Atribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/DesafioAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/DesafioLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Relacionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Ternario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Unarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Exercicio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Foreach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AiurEvI5FU75Mj3DmIMOVkl7Vx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConjuntoComportado">
+    <configuration name="ConjuntoBaguncado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoBaguncado" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Exercicio" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matriz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Matriz" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConjuntoComportado" />
+        <item itemvalue="Application.ConjuntoBaguncado" />
+        <item itemvalue="Application.Matriz" />
+        <item itemvalue="Application.Foreach" />
+        <item itemvalue="Application.Exercicio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="" />
+      <created>1655504926060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655504926060</updated>
+      <workItem from="1655504928279" duration="629000" />
+      <workItem from="1655505583824" duration="1656000" />
+      <workItem from="1655507273253" duration="2377000" />
+    </task>
+    <task id="LOCAL-00001" summary="2022-JUN-17">
+      <created>1655505280201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655505280201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2022-JUN-17">
+      <created>1655505543452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655505543452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022-JUN-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-JUN-17" />
+  </component>
+</project>
