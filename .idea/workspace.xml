@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Motor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Fila.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +60,13 @@
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mapa">
-    <configuration name="ConjuntoComportado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoComportado" />
+  <component name="RunManager" selected="Application.CarroTeste">
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.CarroTeste" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.composicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.Mapa" />
         <item itemvalue="Application.Pilha" />
         <item itemvalue="Application.Fila" />
         <item itemvalue="Application.Lista" />
-        <item itemvalue="Application.ConjuntoComportado" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +155,7 @@
       <workItem from="1655565766787" duration="219000" />
       <workItem from="1655574760251" duration="12000" />
       <workItem from="1655576474982" duration="5000" />
+      <workItem from="1655576829119" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
