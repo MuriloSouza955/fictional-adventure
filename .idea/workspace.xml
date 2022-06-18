@@ -5,80 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="2022-JUN-17">
-      <change afterPath="$PROJECT_DIR$/.idea/fictional-adventure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/Modulo6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Desafio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Exercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/arrays/Matriz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/AreaCirc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/AreaCircTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/DataTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/PrimeiroTrauma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ProdutoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ValorNulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/ValorVsReferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/classe/desafio/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/ConjuntoBaguncado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/ConjuntoComportado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/BreakRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/ContinueRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioDiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/For3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/SwitchComBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/SwitchSemBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/WhileDeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/controle/WhileIndeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoNumeroString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoStringNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/DesafioCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/DesafioConversao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Import.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Inferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/NotacaoPonto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Temperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TipoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TipoStringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/Wrappers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Aritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Atribuicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/DesafioAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/DesafioLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Logicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Relacionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Ternario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/fundamentos/operadores/Unarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Exercicio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Foreach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +139,8 @@
       <updated>1655504926060</updated>
       <workItem from="1655504928279" duration="629000" />
       <workItem from="1655505583824" duration="1656000" />
-      <workItem from="1655507273253" duration="2377000" />
+      <workItem from="1655507273253" duration="2690000" />
+      <workItem from="1655510101073" duration="213000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -228,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655505543452</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022-JUN-17">
+      <created>1655509921950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655509921950</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
