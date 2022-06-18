@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="Data: 2022-JUN-17&#10;Estudo java" />
+    <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="Data: 2022-JUN-17&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,7 @@
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConjuntoComportado">
+  <component name="RunManager" selected="Application.Lista">
     <configuration name="ConjuntoBaguncado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.ConjuntoBaguncado" />
       <module name="Modulo6" />
@@ -78,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Exercicio" />
+    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.Foreach" />
+    <configuration name="Lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecoes.Lista" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arrays.*" />
+          <option name="PATTERN" value="colecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lista" />
         <item itemvalue="Application.ConjuntoComportado" />
         <item itemvalue="Application.ConjuntoBaguncado" />
         <item itemvalue="Application.Matriz" />
         <item itemvalue="Application.Foreach" />
-        <item itemvalue="Application.Exercicio" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +144,7 @@
       <workItem from="1655507273253" duration="2690000" />
       <workItem from="1655510101073" duration="213000" />
       <workItem from="1655510650836" duration="76000" />
+      <workItem from="1655518098394" duration="1499000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
