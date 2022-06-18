@@ -41,8 +41,5 @@ public class Fila {
         System.out.println(fila.poll());
 //        System.out.println(fila.remove());
 
-
-
-
     }
 }

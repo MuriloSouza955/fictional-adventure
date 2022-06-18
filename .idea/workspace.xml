@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/Mapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/colecoes/Pilha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +146,9 @@
       <workItem from="1655510101073" duration="213000" />
       <workItem from="1655510650836" duration="76000" />
       <workItem from="1655518098394" duration="1531000" />
-      <workItem from="1655558870499" duration="3931000" />
+      <workItem from="1655558870499" duration="4135000" />
+      <workItem from="1655565706922" duration="41000" />
+      <workItem from="1655565766787" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655558887245</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Data: 2022-JUN-18&#10;Estudo java">
+      <created>1655563965539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655563965539</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
