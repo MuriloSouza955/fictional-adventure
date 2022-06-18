@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class Fila {
     public static void main(String[] args) {
-        Queue<String> fila = new LinkedList<String>();
+        Queue<String> fila = new LinkedList<>();
 
         //Tanto offer e add v~ao adicionar elementos na fila, a
         // diferen'ca 'e o comportamento quando a fila esta cheia.
