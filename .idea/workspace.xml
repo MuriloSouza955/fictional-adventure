@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
@@ -62,7 +67,7 @@
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CursoTeste">
+  <component name="RunManager" selected="Application.Sistema">
     <configuration name="AreaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.AreaCircunferencia" />
       <module name="Modulo6" />
@@ -115,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Mapa" />
+    <configuration name="Sistema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.desafio.Sistema" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="colecoes.*" />
+          <option name="PATTERN" value="oo.composicao.desafio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sistema" />
         <item itemvalue="Application.CursoTeste" />
         <item itemvalue="Application.CompraTeste" />
         <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.AreaCircunferencia" />
-        <item itemvalue="Application.Mapa" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +162,10 @@
       <workItem from="1655565766787" duration="219000" />
       <workItem from="1655574568219" duration="1839000" />
       <workItem from="1655579936107" duration="1666000" />
-      <workItem from="1655599788720" duration="3490000" />
+      <workItem from="1655599788720" duration="3853000" />
+      <workItem from="1655604315007" duration="36000" />
+      <workItem from="1655604851681" duration="1830000" />
+      <workItem from="1655645968602" duration="1866000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -222,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655599969186</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Data: 2022-JUN-18&#10;Estudo java">
+      <created>1655604293118</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655604293118</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
