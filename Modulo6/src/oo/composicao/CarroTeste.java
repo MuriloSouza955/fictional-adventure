@@ -34,5 +34,4 @@ public class CarroTeste {
         //relação bidirecional
         System.out.println(c1.motor.carro.motor.carro.motor.giros());
     }
-
 }

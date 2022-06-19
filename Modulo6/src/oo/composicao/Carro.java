@@ -2,7 +2,6 @@ package oo.composicao;
 
 public class Carro {
 
-
     Motor motor;
 
     Carro(){
@@ -15,21 +14,21 @@ public class Carro {
         }
     }
 
-    void frear(){
+     void frear(){
         if(motor.fatorInjecao > 0.5) {
             motor.fatorInjecao -= 0.4;
         }
-    }
+     }
 
-    void ligar (){
+     void ligar (){
         motor.ligado = true;
-    }
+     }
 
-    void desligar(){
+     void desligar(){
         motor.ligado = false;
-    }
+     }
 
-    boolean estaLigado(){
+     boolean estaLigado(){
         return motor.ligado;
-    }
+     }
 }
