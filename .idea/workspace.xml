@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/CompraTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Item.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/CursoTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,7 +62,7 @@
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompraTeste">
+  <component name="RunManager" selected="Application.CursoTeste">
     <configuration name="AreaCircunferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fundamentos.AreaCircunferencia" />
       <module name="Modulo6" />
@@ -101,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.composicao.CursoTeste" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oo.composicao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colecoes.Mapa" />
       <module name="Modulo6" />
@@ -114,33 +128,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="colecoes.Pilha" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="colecoes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CursoTeste" />
         <item itemvalue="Application.CompraTeste" />
         <item itemvalue="Application.CarroTeste" />
         <item itemvalue="Application.AreaCircunferencia" />
         <item itemvalue="Application.Mapa" />
-        <item itemvalue="Application.Pilha" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7de9d31a-29af-4f0b-8b95-0bd50a10252a" name="Changes" comment="" />
+      <changelist id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java 1" />
       <created>1655504926060</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -156,6 +157,7 @@
       <workItem from="1655565766787" duration="219000" />
       <workItem from="1655574568219" duration="1839000" />
       <workItem from="1655579936107" duration="1666000" />
+      <workItem from="1655599788720" duration="3490000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -213,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655576403960</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Data: 2022-JUN-18&#10;Estudo java 1">
+      <created>1655599969186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655599969186</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
