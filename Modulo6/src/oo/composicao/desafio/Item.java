@@ -1,7 +1,6 @@
 package oo.composicao.desafio;
 
 import java.util.ArrayList;
-
 public class Item {
     final int qtde;
     final Produto produto;

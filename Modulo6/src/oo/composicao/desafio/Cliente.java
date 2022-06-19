@@ -16,7 +16,6 @@ public class Cliente {
 
     double obterValorTotal(){
         double total = 0;
-
         for(Compra compra : compras){
             total += compra.obterValorTotal();
         }

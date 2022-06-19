@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/composicao/desafio/Sistema.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +164,7 @@
       <workItem from="1655604315007" duration="36000" />
       <workItem from="1655604851681" duration="1830000" />
       <workItem from="1655645968602" duration="1866000" />
+      <workItem from="1655649273529" duration="5100000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
