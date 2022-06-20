@@ -3,11 +3,11 @@ package oo.heranca.desafio;
 public class CarroTeste {
     public static void main(String[] args) {
 
-        Carro fusca = new Fusca();
+        Carro fusca = new Fusca(120);
 
-        Carro civic = new Civic();
+        Carro civic = new Civic(180);
 
-        Carro ferrari = new Ferrari();
+        Carro ferrari = new Ferrari(320);
 
         ferrari.acelerar();
         ferrari.acelerar();

@@ -4,22 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-18&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Direcao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Heroi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Monstro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/CarroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-20&#10;Estudo java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Item.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Heroi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Monstro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Monstro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/CarroTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +179,9 @@
       <workItem from="1655674668439" duration="65000" />
       <workItem from="1655684875912" duration="1078000" />
       <workItem from="1655688599611" duration="1871000" />
-      <workItem from="1655692250121" duration="3735000" />
+      <workItem from="1655692250121" duration="3797000" />
+      <workItem from="1655728991392" duration="151000" />
+      <workItem from="1655729229222" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -270,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655657930328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Data: 2022-JUN-20&#10;Estudo java">
+      <created>1655696055824</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655696055824</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +295,7 @@
     <MESSAGE value="2022-JUN-17" />
     <MESSAGE value="Data: 2022-JUN-17&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-18&#10;Estudo java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-18&#10;Estudo java" />
+    <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-20&#10;Estudo java" />
   </component>
 </project>
