@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-20&#10;Estudo java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Heroi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Heroi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Jogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Monstro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/Monstro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/CarroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-20&#10;Estudo java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +170,7 @@
       <workItem from="1655688599611" duration="1871000" />
       <workItem from="1655692250121" duration="3797000" />
       <workItem from="1655728991392" duration="151000" />
-      <workItem from="1655729229222" duration="2809000" />
+      <workItem from="1655729229222" duration="3447000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -274,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655696055824</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Data: 2022-JUN-20&#10;Estudo java">
+      <created>1655733685030</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655733685030</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
