@@ -2,11 +2,11 @@ package oo.heranca.desafio;
 
 public class Fusca extends Carro{
 
-    Fusca(int velocMax){
+    public Fusca(int velocMax){
         super(velocMax);
     }
     @Override
-    void acelerar(){
+    public void acelerar(){
         this.velocidadeAtual += 2;
     }
 }

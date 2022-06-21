@@ -5,11 +5,11 @@ public class Carro {
     int velocidadeAtual;
     final int VELOCIDADE_MAXIMA;
 
-    Carro (int velocidadeMaxima) {
+    protected Carro (int velocidadeMaxima) {
         VELOCIDADE_MAXIMA = velocidadeMaxima;
     }
 
-    void acelerar(){
+    public void acelerar(){
 
         if(VELOCIDADE_MAXIMA >= velocidadeAtual + 5 ){
             velocidadeAtual = VELOCIDADE_MAXIMA;
@@ -18,7 +18,7 @@ public class Carro {
         }
     }
 
-    void frear(){
+    public void frear(){
         if(velocidadeAtual >= 5) {
             this.velocidadeAtual -= 5;
         }else {
