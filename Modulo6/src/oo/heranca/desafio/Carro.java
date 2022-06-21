@@ -10,9 +10,11 @@ public class Carro {
     }
 
     void acelerar(){
-        this.velocidadeAtual += 5;
-        if(VELOCIDADE_MAXIMA >= velocidadeAtual){
+
+        if(VELOCIDADE_MAXIMA >= velocidadeAtual + 5 ){
             velocidadeAtual = VELOCIDADE_MAXIMA;
+        }else{
+            velocidadeAtual += 5;
         }
     }
 
