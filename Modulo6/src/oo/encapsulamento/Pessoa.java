@@ -6,9 +6,11 @@ public class Pessoa {
 
     private int idade = 0;
     private String nome;
+    private String sobrenome;
 
-    Pessoa( String nome, int idade){
+    Pessoa( String nome, String sobrenome, int idade){
         this.setNome(nome);
+        this.setSobrenome(sobrenome);
         this.setIdade(idade);
     }
 
@@ -21,6 +23,18 @@ public class Pessoa {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String getSobrenome() {
+        return sobrenome;
+    }
+
+    public void setSobrenome(String sobrenome) {
+        this.sobrenome = sobrenome;
+    }
+
+    public String getNomeCompleto(){
+        return getNome()+" "+getSobrenome();
     }
 
     public int getIdade() {
@@ -37,6 +51,6 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        return "Olá, eu sou o "+getNome()+ " e tenho "+getIdade()+" anos.";
+        return "Olá, eu sou o "+getNomeCompleto()+" e tenho "+getIdade()+" anos.";
     }
 }
