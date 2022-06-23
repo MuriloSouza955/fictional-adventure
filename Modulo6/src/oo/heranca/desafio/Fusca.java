@@ -7,6 +7,6 @@ public class Fusca extends Carro{
     }
     @Override
     public void acelerar(){
-        this.velocidadeAtual += 2;
+        this.velocidadeAtual += 5;
     }
 }

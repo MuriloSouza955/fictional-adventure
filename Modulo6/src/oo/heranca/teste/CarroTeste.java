@@ -17,8 +17,10 @@ public class CarroTeste {
 
         ferrari.acelerar();
         ferrari.acelerar();
-        ferrari.frear();
+//        ferrari.frear();
         ferrari.ligarTurbo();
+        ferrari.acelerar();
+        ferrari.acelerar();
         ferrari.acelerar();
         civic.acelerar();
         civic.ligarTurbo();

@@ -8,11 +8,11 @@ public class Civic extends Carro implements Esportivo{
 
     @Override
     public void ligarTurbo() {
-        delta = 10;
+        setDelta(10);
     }
 
     @Override
     public void desligarTurbo() {
-        delta = 5;
+        setDelta(5);
     }
 }
