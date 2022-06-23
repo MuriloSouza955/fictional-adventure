@@ -11,6 +11,13 @@ public class Ferrari extends Carro implements Esportivo, Luxo{
         super(velocMax);
         setDelta(15);
     }
+//    public void acelerar(){
+//        if((velocidadeAtual + getDelta()) >= VELOCIDADE_MAXIMA){
+//            velocidadeAtual = VELOCIDADE_MAXIMA;
+//        }else if ((velocidadeAtual + getDelta()) < VELOCIDADE_MAXIMA){
+//            velocidadeAtual += getDelta();
+//        }
+//    }
 
     public void ligarTurbo(){
         ligarTurbo = true;

@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/abstrato/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/abstrato/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/abstrato/Mamifero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/abstrato/TesteAbstrato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Luxo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Civic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Esportivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Esportivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Ferrari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Fusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/teste/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/teste/CarroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/polimorfismo/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/polimorfismo/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/polimorfismo/Jantar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/polimorfismo/Jantar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Comida.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Comida.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/teste/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/teste/CarroTeste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +187,7 @@
       <workItem from="1655868229393" duration="2895000" />
       <workItem from="1655871312550" duration="45000" />
       <workItem from="1655898286937" duration="7960000" />
+      <workItem from="1655987604133" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -325,7 +315,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655871349708</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <created>1655987639960</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655987639960</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <created>1655987668407</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1655987668407</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

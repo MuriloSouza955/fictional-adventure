@@ -13,12 +13,18 @@ public class CarroTeste {
 
         Civic civic = new Civic(180);
 
-        Ferrari ferrari = new Ferrari(320);
+        Ferrari ferrari = new Ferrari(300);
 
         ferrari.acelerar();
         ferrari.acelerar();
-//        ferrari.frear();
+        ferrari.frear();
         ferrari.ligarTurbo();
+        ferrari.acelerar();
+        ferrari.acelerar();
+        ferrari.acelerar();
+        ferrari.acelerar();
+        ferrari.acelerar();
+        ferrari.acelerar();
         ferrari.acelerar();
         ferrari.acelerar();
         ferrari.acelerar();
@@ -31,7 +37,7 @@ public class CarroTeste {
         fusca.acelerar();
 
         System.out.println(ferrari.toString());
-        System.out.println(civic.toString());
-        System.out.println(fusca.toString());
+//        System.out.println(civic.toString());
+//        System.out.println(fusca.toString());
     }
 }
