@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Calculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Multiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Somar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/desafio/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/oo/heranca/teste/CarroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/oo/heranca/teste/CarroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/teste/CarroTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/teste/CarroTeste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -70,13 +72,13 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.oo.heranca.teste.CarroTeste">
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.Jantar" />
+  <component name="RunManager" selected="Application.CalculoTeste2">
+    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.polimorfismo.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.encapsulamento.PessoaTeste" />
+    <configuration name="CalculoTeste2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste2" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.encapsulamento.*" />
+          <option name="PATTERN" value="lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oo.polimorfismo.Jantar" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oo.polimorfismo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,26 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oo.heranca.teste.Jogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.heranca.teste.Jogo" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oo.heranca.teste.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculoTeste2" />
+        <item itemvalue="Application.CalculoTeste1" />
         <item itemvalue="Application.oo.heranca.teste.CarroTeste" />
         <item itemvalue="Application.TesteAbstrato" />
         <item itemvalue="Application.Jantar" />
-        <item itemvalue="Application.PessoaTeste" />
-        <item itemvalue="Application.oo.heranca.teste.Jogo" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +189,8 @@
       <workItem from="1655868229393" duration="2895000" />
       <workItem from="1655871312550" duration="45000" />
       <workItem from="1655898286937" duration="7960000" />
-      <workItem from="1655987604133" duration="908000" />
+      <workItem from="1655987604133" duration="1220000" />
+      <workItem from="1655991348854" duration="893000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -329,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655987668407</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <created>1655990908075</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1655990908075</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
