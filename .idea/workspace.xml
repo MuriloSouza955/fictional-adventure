@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Calculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Calculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,20 +77,7 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculoTeste3">
-    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Consumidor">
     <configuration name="CalculoTeste2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste2" />
       <module name="Modulo6" />
@@ -113,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteAbstrato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.abstrato.TesteAbstrato" />
+    <configuration name="Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Consumidor" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.abstrato.*" />
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oo.heranca.teste.CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.heranca.teste.CarroTeste" />
+    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Foreach" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.heranca.teste.*" />
+          <option name="PATTERN" value="lambdas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Predicado" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Consumidor" />
+        <item itemvalue="Application.Predicado" />
+        <item itemvalue="Application.Foreach" />
         <item itemvalue="Application.CalculoTeste3" />
         <item itemvalue="Application.CalculoTeste2" />
-        <item itemvalue="Application.CalculoTeste1" />
-        <item itemvalue="Application.oo.heranca.teste.CarroTeste" />
-        <item itemvalue="Application.TesteAbstrato" />
       </list>
     </recent_temporary>
   </component>
