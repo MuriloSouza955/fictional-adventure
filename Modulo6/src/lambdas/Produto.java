@@ -12,13 +12,13 @@ public class Produto extends Object {
         this.desconto = desconto;
     }
 
-    @Override
-    public String toString() {
-        return "Produto{" +
-                "nome='" + nome + '\'' +
-                ", preco R$" + preco +
-                ", desconto=" + desconto +
-                ", preço com desconto R$ " + preco * (1 - desconto) +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Produto{" +
+//                "nome='" + nome + '\'' +
+//                ", preco R$" + preco +
+//                ", desconto=" + desconto +
+//                ", preço com desconto R$ " + preco * (1 - desconto) +
+//                '}';
+//    }
 }

@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-24&#10;Estudo java" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-24&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/OperadorBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/OperadorUnario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/PredicadoComposicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/ProdutoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Jantar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/colecoes/ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/colecoes/ConjuntoBaguncado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioDiaSemana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElseIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchComBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchComBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchSemBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchSemBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/WhileIndeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/WhileIndeterminado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/AreaCircunferencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Console.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/ConversaoStringNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioCalculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioConversao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Temperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TipoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TiposPrimitivos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioAritmeticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioLogicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/Ternario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Foreach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CompraTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CursoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CursoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/encapsulamento/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/encapsulamento/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,9 +115,9 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Funcao">
-    <configuration name="Funcao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Funcao" />
+  <component name="RunManager" selected="Application.Desafio">
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Desafio" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste3" />
+    <configuration name="Fornecedor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Fornecedor" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Consumidor" />
+    <configuration name="OperadorBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.OperadorBinario" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Foreach" />
+    <configuration name="OperadorUnario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.OperadorUnario" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdas.Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Predicado" />
+    <configuration name="PredicadoComposicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.PredicadoComposicao" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Funcao" />
-        <item itemvalue="Application.lambdas.Foreach" />
-        <item itemvalue="Application.lambdas.CalculoTeste3" />
-        <item itemvalue="Application.lambdas.Consumidor" />
-        <item itemvalue="Application.lambdas.Predicado" />
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.OperadorBinario" />
+        <item itemvalue="Application.OperadorUnario" />
+        <item itemvalue="Application.Fornecedor" />
+        <item itemvalue="Application.PredicadoComposicao" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +238,7 @@
       <workItem from="1656003946604" duration="1818000" />
       <workItem from="1656108207208" duration="5220000" />
       <workItem from="1656118819477" duration="305000" />
-      <workItem from="1656123515301" duration="983000" />
+      <workItem from="1656123515301" duration="10991000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -369,7 +415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656124481249</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656124777919</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656124777919</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656124850296</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656124850296</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,6 +455,16 @@
     <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-24&#10;Estudo java" />
     <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-24&#10;Estudo java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
