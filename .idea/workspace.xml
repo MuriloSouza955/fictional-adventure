@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Consumidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Predicado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Produto.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-21&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -77,9 +73,9 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Consumidor">
-    <configuration name="CalculoTeste2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste2" />
+  <component name="RunManager" selected="Application.Funcao">
+    <configuration name="Funcao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Funcao" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -91,7 +87,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste3" />
       <module name="Modulo6" />
       <extension name="coverage">
@@ -104,7 +100,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.Consumidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Consumidor" />
       <module name="Modulo6" />
       <extension name="coverage">
@@ -117,7 +113,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Foreach" />
       <module name="Modulo6" />
       <extension name="coverage">
@@ -130,7 +126,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="lambdas.Predicado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdas.Predicado" />
       <module name="Modulo6" />
       <extension name="coverage">
@@ -145,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Consumidor" />
-        <item itemvalue="Application.Predicado" />
-        <item itemvalue="Application.Foreach" />
-        <item itemvalue="Application.CalculoTeste3" />
-        <item itemvalue="Application.CalculoTeste2" />
+        <item itemvalue="Application.Funcao" />
+        <item itemvalue="Application.lambdas.Foreach" />
+        <item itemvalue="Application.lambdas.CalculoTeste3" />
+        <item itemvalue="Application.lambdas.Consumidor" />
+        <item itemvalue="Application.lambdas.Predicado" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +194,8 @@
       <workItem from="1655991348854" duration="893000" />
       <workItem from="1655993011180" duration="18000" />
       <workItem from="1656003946604" duration="1818000" />
+      <workItem from="1656108207208" duration="5220000" />
+      <workItem from="1656118819477" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -353,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655993020619</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Data: 2022-JUN-21&#10;Estudo java">
+      <created>1656036699471</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656036699471</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,9 +380,9 @@
     <MESSAGE value="Data: 2022-JUN-17&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-18&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
-    <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-22&#10;Estudo java MAC" />
+    <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-21&#10;Estudo java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
