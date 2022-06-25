@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-21&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-24&#10;Estudo java">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Funcao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,8 @@
       <workItem from="1655993011180" duration="18000" />
       <workItem from="1656003946604" duration="1818000" />
       <workItem from="1656108207208" duration="5220000" />
-      <workItem from="1656118819477" duration="104000" />
+      <workItem from="1656118819477" duration="305000" />
+      <workItem from="1656123515301" duration="587000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -358,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656036699471</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656119112350</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656119112350</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,7 +390,8 @@
     <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-21&#10;Estudo java" />
+    <MESSAGE value="Data: 2022-JUN-24&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-24&#10;Estudo java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
