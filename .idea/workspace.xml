@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/CriandoStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/ImprimindoObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Utilitarios.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,6 +198,7 @@
       <workItem from="1656180080805" duration="4829000" />
       <workItem from="1656202491087" duration="6854000" />
       <workItem from="1656211257396" duration="605000" />
+      <workItem from="1656275971643" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
