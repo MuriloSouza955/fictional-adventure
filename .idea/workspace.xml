@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Calculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/CalculoTeste2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Calculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/CalculoTeste2.class" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +186,7 @@
       <workItem from="1655987604133" duration="1220000" />
       <workItem from="1655991348854" duration="893000" />
       <workItem from="1655993011180" duration="18000" />
-      <workItem from="1656003946604" duration="1818000" />
+      <workItem from="1656003946604" duration="2059000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -349,7 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655993020619</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <created>1656006620471</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1656006620471</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
+      <created>1656006841882</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656006841882</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
