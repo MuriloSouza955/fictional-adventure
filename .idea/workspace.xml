@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Threads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Trabalho1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/CriandoStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/ImprimindoObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Utilitarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/lambdas/Desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/lambdas/Desafio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Desafio.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +76,13 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Threads">
-    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Desafio" />
+  <component name="RunManager" selected="Application.DesafioMap">
+    <configuration name="CriandoStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.CriandoStreams" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fornecedor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.Fornecedor" />
+    <configuration name="DesafioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.DesafioMap" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorBinario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.OperadorBinario" />
+    <configuration name="ImprimindoObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.ImprimindoObjetos" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadorUnario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.OperadorUnario" />
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Map" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdas.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioMap" />
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.CriandoStreams" />
+        <item itemvalue="Application.ImprimindoObjetos" />
         <item itemvalue="Application.Threads" />
-        <item itemvalue="Application.Desafio" />
-        <item itemvalue="Application.OperadorBinario" />
-        <item itemvalue="Application.OperadorUnario" />
-        <item itemvalue="Application.Fornecedor" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,9 @@
       <workItem from="1656108207208" duration="5220000" />
       <workItem from="1656118819477" duration="305000" />
       <workItem from="1656123515301" duration="10991000" />
-      <workItem from="1656180080805" duration="4603000" />
+      <workItem from="1656180080805" duration="4829000" />
+      <workItem from="1656202491087" duration="6854000" />
+      <workItem from="1656211257396" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -404,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656180123702</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656186222872</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656186222872</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
