@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-22&#10;Estudo java MAC" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/CriandoStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/ImprimindoObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Utilitarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +60,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -66,65 +76,65 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculoTeste3">
-    <configuration name="CalculoTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste1" />
+  <component name="RunManager" selected="Application.DesafioMap">
+    <configuration name="CriandoStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.CriandoStreams" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.DesafioMap" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprimindoObjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.ImprimindoObjetos" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Map" />
+      <module name="Modulo6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdas.Threads" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculoTeste2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste2" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculoTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdas.CalculoTeste3" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteAbstrato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.abstrato.TesteAbstrato" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oo.abstrato.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oo.heranca.teste.CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.heranca.teste.CarroTeste" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oo.heranca.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculoTeste3" />
-        <item itemvalue="Application.CalculoTeste2" />
-        <item itemvalue="Application.CalculoTeste1" />
-        <item itemvalue="Application.oo.heranca.teste.CarroTeste" />
-        <item itemvalue="Application.TesteAbstrato" />
+        <item itemvalue="Application.DesafioMap" />
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.CriandoStreams" />
+        <item itemvalue="Application.ImprimindoObjetos" />
+        <item itemvalue="Application.Threads" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +196,13 @@
       <workItem from="1655987604133" duration="1220000" />
       <workItem from="1655991348854" duration="893000" />
       <workItem from="1655993011180" duration="18000" />
-      <workItem from="1656003946604" duration="2059000" />
+      <workItem from="1656003946604" duration="1818000" />
+      <workItem from="1656108207208" duration="5220000" />
+      <workItem from="1656118819477" duration="305000" />
+      <workItem from="1656123515301" duration="10991000" />
+      <workItem from="1656180080805" duration="4829000" />
+      <workItem from="1656202491087" duration="6854000" />
+      <workItem from="1656211257396" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -342,21 +358,63 @@
       <option name="project" value="LOCAL" />
       <updated>1655993020619</updated>
     </task>
-    <task id="LOCAL-00023" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <created>1656006620471</created>
+    <task id="LOCAL-00023" summary="Data: 2022-JUN-21&#10;Estudo java">
+      <created>1656036699471</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1656006620471</updated>
+      <updated>1656036699471</updated>
     </task>
-    <task id="LOCAL-00024" summary="Data: 2022-JUN-22&#10;Estudo java MAC">
-      <created>1656006841882</created>
+    <task id="LOCAL-00024" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656119112350</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1656006841882</updated>
+      <updated>1656119112350</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656124481249</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656124481249</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656124777919</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1656124777919</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Data: 2022-JUN-24&#10;Estudo java">
+      <created>1656124850296</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656124850296</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656180110906</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656180110906</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656180123702</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1656180123702</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656186222872</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656186222872</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,9 +436,21 @@
     <MESSAGE value="Data: 2022-JUN-17&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-18&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
-    <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-22&#10;Estudo java MAC" />
+    <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
+    <MESSAGE value="Data: 2022-JUN-24&#10;Estudo java" />
+    <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-25&#10;Estudo java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
