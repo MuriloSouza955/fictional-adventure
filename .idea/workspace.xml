@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/CriandoStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/ImprimindoObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Utilitarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +195,7 @@
       <workItem from="1656123515301" duration="10991000" />
       <workItem from="1656180080805" duration="4829000" />
       <workItem from="1656202491087" duration="6854000" />
-      <workItem from="1656211257396" duration="605000" />
+      <workItem from="1656211257396" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656186222872</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656212059793</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1656212059793</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
