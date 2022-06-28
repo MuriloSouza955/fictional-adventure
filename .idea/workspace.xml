@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-26&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/DesafioMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/DesafioMap.class" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-25&#10;Estudo java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -435,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656372344066</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656377948666</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656377948666</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,10 +459,10 @@
     <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-24&#10;Estudo java" />
-    <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-26&#10;Estudo java MAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-26&#10;Estudo java MAC" />
+    <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-25&#10;Estudo java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
