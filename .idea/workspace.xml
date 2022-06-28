@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-26&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/DesafioTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/MediaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/DesafioMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/DesafioMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/ProdutoTeste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
@@ -77,9 +85,9 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioTeste">
-    <configuration name="DesafioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DesafioMap" />
+  <component name="RunManager" selected="Application.Match">
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Match" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.DesafioTeste" />
+    <configuration name="MediaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.MediaTeste" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Filter" />
+    <configuration name="Reduce1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce1" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Map" />
+    <configuration name="Reduce2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce2" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -130,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.desafio.ProdutoTeste" />
+    <configuration name="Reduce3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Reduce3" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.desafio.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DesafioTeste" />
-        <item itemvalue="Application.ProdutoTeste" />
-        <item itemvalue="Application.Filter" />
-        <item itemvalue="Application.DesafioMap" />
-        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.Match" />
+        <item itemvalue="Application.Reduce3" />
+        <item itemvalue="Application.MediaTeste" />
+        <item itemvalue="Application.Reduce2" />
+        <item itemvalue="Application.Reduce1" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +219,7 @@
       <workItem from="1656343593977" duration="2596000" />
       <workItem from="1656372330705" duration="60000" />
       <workItem from="1656372626466" duration="65000" />
+      <workItem from="1656381508882" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -443,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656372655025</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Data: 2022-JUN-26&#10;Estudo java MAC">
+      <created>1656381517854</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1656381517854</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
