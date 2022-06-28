@@ -11,4 +11,9 @@ public class Produto {
         this.preco = preco;
         this.freteGratis = freteGratis;
     }
+
+    @Override
+    public String toString() {
+        return "Produto: "+ this.nome;
+    }
 }
