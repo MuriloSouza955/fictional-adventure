@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-26&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/MediaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/Reduce3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/desafio/ProdutoTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/Produto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/desafio/ProdutoTeste.class" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-28&#10;Estudo java MAC" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +204,7 @@
       <workItem from="1656343593977" duration="2596000" />
       <workItem from="1656372330705" duration="60000" />
       <workItem from="1656372626466" duration="65000" />
-      <workItem from="1656381508882" duration="5226000" />
+      <workItem from="1656381508882" duration="5507000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -459,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656381517854</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Data: 2022-JUN-28&#10;Estudo java MAC">
+      <created>1656389131588</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1656389131588</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +478,8 @@
     <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-26&#10;Estudo java MAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-26&#10;Estudo java MAC" />
+    <MESSAGE value="Data: 2022-JUN-28&#10;Estudo java MAC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-28&#10;Estudo java MAC" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
