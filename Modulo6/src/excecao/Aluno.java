@@ -4,16 +4,24 @@ import java.util.Objects;
 
 public class Aluno {
 
-    final String nome;
-    final double notaProva;
-     double notaTrabalho;
-     int presenca;
+    public String nome;
+    public double notaProva;
+     public double notaTrabalho;
+     public int presenca;
+
+     public boolean bomComportamento;
 
     public Aluno(String nome, double notaProva, double notaTrabalho, int presenca) {
         this.nome = nome;
         this.notaProva = notaProva;
         this.notaTrabalho = notaTrabalho;
         this.presenca = presenca;
+    }
+
+    public Aluno (String nome, double nota, boolean bomComportamento){
+        this.nome = nome;
+        this.notaProva = nota;
+        this.bomComportamento = bomComportamento;
     }
 
     public Aluno(String nome, double nota){
