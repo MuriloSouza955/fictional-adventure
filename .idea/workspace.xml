@@ -4,49 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Data: 2022-JUN-28&#10;Estudo java MAC">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/streams/OutrosMetodos.java" afterDir="false" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Basico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/streams/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Desafio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/arrays/Matriz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/ProdutoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Jantar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/classe/desafio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/colecoes/ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/colecoes/ConjuntoBaguncado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/colecoes/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioDiaSemana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DesafioWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/If.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/IfElseIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchComBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchComBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchSemBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/SwitchSemBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/controle/WhileIndeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/controle/WhileIndeterminado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/AreaCircunferencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/ConversaoStringNumero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioCalculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/DesafioConversao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/Temperatura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TipoString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/TiposPrimitivos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioAritmeticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/DesafioLogicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/fundamentos/operadores/Ternario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/lambdas/Foreach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CompraTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CursoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/CursoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/composicao/desafio/Sistema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/encapsulamento/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/encapsulamento/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/heranca/desafio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/oo/polimorfismo/Jantar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modulo6/streams/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modulo6/streams/Map.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,17 +70,18 @@
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="excecao" />
       <recent name="lambdas" />
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OutrosMetodos">
-    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Match" />
+  <component name="RunManager" selected="Application.Basico">
+    <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Basico" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MediaTeste" />
+    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Match" />
       <module name="Modulo6" />
       <extension name="coverage">
         <pattern>
@@ -181,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Basico" />
         <item itemvalue="Application.OutrosMetodos" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.Match" />
         <item itemvalue="Application.Reduce3" />
-        <item itemvalue="Application.MediaTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +210,7 @@
       <workItem from="1656372330705" duration="60000" />
       <workItem from="1656372626466" duration="65000" />
       <workItem from="1656381508882" duration="5507000" />
+      <workItem from="1656449032607" duration="4036000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -494,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656389131588</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Data: 2022-JUN-25&#10;Estudo java">
+      <created>1656437164347</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1656437164347</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,11 +488,11 @@
     <MESSAGE value="Data: 2022-JUN-20&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-21&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-24&#10;Estudo java" />
-    <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
     <MESSAGE value="Data: 2022-JUN-22&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-26&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-28&#10;Estudo java MAC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-28&#10;Estudo java MAC" />
+    <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-25&#10;Estudo java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
