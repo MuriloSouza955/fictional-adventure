@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Basico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +206,7 @@
       <workItem from="1656372330705" duration="60000" />
       <workItem from="1656372626466" duration="65000" />
       <workItem from="1656381508882" duration="5507000" />
-      <workItem from="1656449032607" duration="4036000" />
+      <workItem from="1656449032607" duration="4667000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -464,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656437164347</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Estudo java">
+      <created>1656461521692</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1656461521692</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +495,8 @@
     <MESSAGE value="Data: 2022-JUN-26&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-28&#10;Estudo java MAC" />
     <MESSAGE value="Data: 2022-JUN-25&#10;Estudo java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data: 2022-JUN-25&#10;Estudo java" />
+    <MESSAGE value="Estudo java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudo java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
