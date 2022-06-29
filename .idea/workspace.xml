@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java" />
+    <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java">
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/ChecadaVsNaoChecada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/Modulo6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/Exercicios.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Modulo6/src/excecao/ChecadaVsNaoChecada.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,10 +79,23 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Basico">
+  <component name="RunManager" selected="Application.ChecadaVsNaoChecada">
     <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="excecao.Basico" />
-      <module name="Modulo6" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChecadaVsNaoChecada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.ChecadaVsNaoChecada" />
+      <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="excecao.*" />
@@ -87,7 +108,7 @@
     </configuration>
     <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.Match" />
-      <module name="Modulo6" />
+      <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="streams.*" />
@@ -100,7 +121,7 @@
     </configuration>
     <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.MinMax" />
-      <module name="Modulo6" />
+      <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="streams.*" />
@@ -113,20 +134,7 @@
     </configuration>
     <configuration name="OutrosMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streams.OutrosMetodos" />
-      <module name="Modulo6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reduce3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Reduce3" />
-      <module name="Modulo6" />
+      <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="streams.*" />
@@ -139,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChecadaVsNaoChecada" />
         <item itemvalue="Application.Basico" />
         <item itemvalue="Application.OutrosMetodos" />
         <item itemvalue="Application.MinMax" />
         <item itemvalue="Application.Match" />
-        <item itemvalue="Application.Reduce3" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +215,7 @@
       <workItem from="1656372626466" duration="65000" />
       <workItem from="1656381508882" duration="5507000" />
       <workItem from="1656449032607" duration="4667000" />
+      <workItem from="1656463064631" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="2022-JUN-17">
       <created>1655505280201</created>
@@ -467,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656461521692</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Estudo java">
+      <created>1656463084895</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1656463084895</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
