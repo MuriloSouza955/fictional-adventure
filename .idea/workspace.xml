@@ -5,10 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/ChecadaVsNaoChecada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Causa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/NumeroForaDoIntervaloException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/NumeroNegativoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/StringVaziaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/TesteValidacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/Validar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_22_00_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_22_00__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/Modulo6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/Exercicios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/NumeroNegativoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/NumeroNegativoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/StringVaziaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/StringVaziaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/TesteValidacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/TesteValidacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/arrays/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/arrays/Desafio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/arrays/Matriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/ProdutoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Jantar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/colecoes/ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/colecoes/ConjuntoBaguncado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/colecoes/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/colecoes/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioDiaSemana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElseIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchComBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchComBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchSemBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchSemBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/WhileIndeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/WhileIndeterminado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/NumeroNegativoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/NumeroNegativoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/StringVaziaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/StringVaziaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/TesteValidacoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/TesteValidacoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/AreaCircunferencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Console.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/ConversaoStringNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioCalculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioConversao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Temperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TipoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TiposPrimitivos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioAritmeticos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioLogicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/Ternario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/lambdas/Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/lambdas/Foreach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CompraTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CursoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CursoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/desafio/Sistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/desafio/Sistema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/encapsulamento/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/encapsulamento/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/heranca/desafio/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/polimorfismo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/polimorfismo/Jantar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/streams/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/streams/Filter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/streams/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/streams/Map.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,30 +93,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Cursos Java BJ_Share/Curso Java Master/curso-java-master/fictional-adventure/Modulo6/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "/Users/murilosouza/iCloud Drive (Arquivo)/Documents/fictional-adventure/Modulo6/src/excecao/personalizadaA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA" />
+      <recent name="$PROJECT_DIR$/Modulo6/src/excecao/personalizadab" />
+      <recent name="$PROJECT_DIR$/Modulo6/src/excecao" />
+      <recent name="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB" />
       <recent name="F:\Cursos Java BJ_Share\Curso Java Master\curso-java-master\fictional-adventure\Modulo6\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,9 +133,22 @@
       <recent name="oo.heranca" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChecadaVsNaoChecada">
+  <component name="RunManager" selected="Application.Causa">
     <configuration name="Basico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="excecao.Basico" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Causa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Causa" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Match" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.Match" />
+    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.Finally" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MinMax" />
+    <configuration name="TesteValidacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecao.personalizadaA.TesteValidacoes" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="excecao.personalizadaA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +199,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutrosMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.OutrosMetodos" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="fictional-adventure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="fictional-adventure" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Causa" />
+        <item itemvalue="Application.Finally" />
+        <item itemvalue="Application.TesteValidacoes" />
         <item itemvalue="Application.ChecadaVsNaoChecada" />
         <item itemvalue="Application.Basico" />
-        <item itemvalue="Application.OutrosMetodos" />
-        <item itemvalue="Application.MinMax" />
-        <item itemvalue="Application.Match" />
       </list>
     </recent_temporary>
   </component>
