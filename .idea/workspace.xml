@@ -5,60 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bc16d88-4621-4caa-a739-c1426cc1f995" name="Changes" comment="Estudo java">
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Causa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/NumeroForaDoIntervaloException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/NumeroNegativoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/StringVaziaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/TesteValidacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaB/Validar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_22_00_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_06_2022_22_00__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_22_22_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_30_06_22_22_18__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/NumeroNegativoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/NumeroNegativoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/StringVaziaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/StringVaziaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/TesteValidacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo6/src/excecao/personalizadaA/TesteValidacoes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/arrays/Desafio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/arrays/Desafio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/arrays/Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/arrays/Matriz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/ProdutoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/ProdutoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Jantar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/classe/desafio/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/colecoes/ConjuntoBaguncado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/colecoes/ConjuntoBaguncado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/colecoes/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/colecoes/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioDiaSemana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioDiaSemana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DesafioWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/If.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/IfElseIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchComBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchComBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchSemBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/SwitchSemBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/controle/WhileIndeterminado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/controle/WhileIndeterminado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/NumeroNegativoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/NumeroNegativoException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/StringVaziaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/StringVaziaException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/TesteValidacoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/excecao/personalizadaA/TesteValidacoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/AreaCircunferencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/AreaCircunferencia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/ConversaoStringNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/ConversaoStringNumero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioCalculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioCalculadora.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioConversao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/DesafioConversao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Temperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/Temperatura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TipoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TipoString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TiposPrimitivos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/TiposPrimitivos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioAritmeticos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioAritmeticos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioLogicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/DesafioLogicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/fundamentos/operadores/Ternario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/lambdas/Foreach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/lambdas/Foreach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CompraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CompraTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CursoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/CursoTeste.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/desafio/Sistema.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/composicao/desafio/Sistema.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/encapsulamento/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/encapsulamento/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/heranca/desafio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/heranca/desafio/Carro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/oo/polimorfismo/Jantar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/oo/polimorfismo/Jantar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/streams/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/streams/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/streams/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/streams/Map.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -195,19 +143,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="fictional-adventure" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="fictional-adventure" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
